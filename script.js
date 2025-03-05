@@ -42,9 +42,9 @@ var data = [
 
         "value": 2,
 
-        "question": "Who can help manager with the additional support related to performance process?",
+        "question": "What topics can be discussed in SAP talk?",
 
-        "answer": "HRA"
+        "answer": "Performance Discussions and Working Conditions and development"
 
     },
 
@@ -54,9 +54,9 @@ var data = [
 
         "value": 3,
 
-        "question": "What topics can be discussed in SAP talk?",
+        "question": "Name the initiative channel where we can talk to external experts about all life challenges anonymously around the clock.",
 
-        "answer": "Performance Discussions and Working Conditions and development"
+        "answer": "Employee Assistance Program"
 
     },
 
@@ -66,9 +66,9 @@ var data = [
 
         "value": 4,
 
-        "question": "Name the initiative channel where we can talk to external experts about all life challenges anonymously around the clock.",
+        "question": "The practice of sharing regular, constructive response at work through a series of ongoing and structured conversations between managers and their employees is called ?",
 
-        "answer": "Employee Assistance Program"
+        "answer": "Continuous Feedback"
 
     },
 
@@ -78,9 +78,9 @@ var data = [
 
         "value": 5,
 
-        "question": "The practice of sharing regular, constructive response at work through a series of ongoing and structured conversations between managers and their employees is called ?",
+        "question": "Which platform enables to collect feedback from peers, managers and other stakeholders?",
 
-        "answer": "Continuous Feedback"
+        "answer": "360 feedback"
 
     },
 
@@ -90,9 +90,9 @@ var data = [
 
         "value": 6,
 
-        "question": "What is the channel used to have regular, open dialogue between employee and manager. The dialogue is forward-looking and solution oriented rather than backward-looking.",
+        "question": "What is the essential skill for ensuring the feedback receiver feels understood?",
 
-        "answer": "SAP Talk"
+        "answer": "Active listening"
 
     },
 
@@ -102,9 +102,9 @@ var data = [
 
         "value": 7,
 
-        "question": "Name the teams who support managers to bring the performance concerns back on track.",
+        "question": "What term describes the process of helping employees understand and achieve their potential?",
 
-        "answer": "People Relations/HR advisor"
+        "answer": "Coaching"
 
     },
 
@@ -114,9 +114,9 @@ var data = [
 
         "value": 8,
 
-        "question": "Which platform enables to collect feedback from peers, managers and other stakeholders.",
+        "question": "What is the recommended number of goals?",
 
-        "answer": "360 degree feedback"
+        "answer": "5 ( Including the Strategic/L1 goals)"
 
     },
 
@@ -126,9 +126,9 @@ var data = [
 
         "value": 9,
 
-        "question": "Which process in Success map enables managers to correct the performance deviations?",
+        "question": "What should be the overall weightage of all my goals put together ?",
 
-        "answer": "Manage to Success"
+        "answer": "100%"
 
     },
 
@@ -138,9 +138,9 @@ var data = [
 
         "value": 10,
 
-        "question": "Who is responsible to initiate the SAP Talk?",
+        "question": "Can I add or modify my goals  or change the weightage during  the year?",
 
-        "answer": "It is the joint It is the joint and collaborative of employee  & manager."
+        "answer": "Yes, you need to be in alignment with the manager"
 
     }
 
